@@ -1,3 +1,4 @@
+##Se agrega una linea con relacion a git-log.md, mueestra el hitorial
 ##
 El uso de git reset HEAD
 ##Curso de Git desde cero
