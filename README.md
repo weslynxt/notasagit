@@ -1,3 +1,5 @@
+##
+El uso de git reset HEAD
 ##Curso de Git desde cero
 Sistema de control de versiones para el mantenimieto eficiente y confiable de archivos.
 
