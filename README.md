@@ -1,4 +1,4 @@
-##Se agrega una linea con relacion a git-log.md, mueestra el hitorial
+###Se agrega una linea con relacion a git-log.md, muestra el hitorial
 ##
 El uso de git reset HEAD
 ##Curso de Git desde cero
@@ -11,7 +11,7 @@ Sistema de control de versiones para el mantenimieto eficiente y confiable de ar
 2. Area de preparacion
 3. Directorio Git
 
-##Esta otra linea
+###Esta otra linea
 Nueva linea
 
 ##Tercera linea
@@ -20,4 +20,5 @@ Tercera linea de ejemplo, cuando un archivo esta en stagin area de este archivo 
 ###
 cuarta linea, modificado para la clase cuatro de commit para regresar
 
-Esta linea fue creada en la rama master
+### Aportes de Sergio
+Este texto fue aportado desde la cuenta local de Sergio, se modifico la primera linea en la palabra "muesttra" a "muestra"
