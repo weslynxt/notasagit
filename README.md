@@ -28,3 +28,6 @@ Se refactorizaron los titulos
 Desde el entorno gui de git
 
 Existe el pull??
+
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos, debidamente agregados al local.
