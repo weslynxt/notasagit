@@ -26,3 +26,5 @@ Este texto fue aportado desde la cuenta local de Sergio, se modifico la primera 
 Se refactorizaron los titulos
 
 Desde el entorno gui de git
+
+Existe el pull??
