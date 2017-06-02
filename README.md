@@ -23,4 +23,4 @@ cuarta linea, modificado para la clase cuatro de commit para regresar
 ### Aportes de Sergio
 Este texto fue aportado desde la cuenta local de Sergio, se modifico la primera linea en la palabra "muesttra" a "muestra"
 
-Se refactorizaron los titulos
+Se agrega esta linea
