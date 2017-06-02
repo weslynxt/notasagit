@@ -1,2 +1,2 @@
-My Weslyn's brithday is:
+The Weslyn's brithday is:
   November 01st
