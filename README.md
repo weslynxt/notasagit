@@ -24,7 +24,3 @@ cuarta linea, modificado para la clase cuatro de commit para regresar
 Este texto fue aportado desde la cuenta local de Sergio, se modifico la primera linea en la palabra "muesttra" a "muestra"
 
 Se refactorizaron los titulos
-
-Desde el entorno gui de git
-
-Existe el pull??
